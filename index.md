@@ -1,3 +1,13 @@
+### Personality Matrix
+
+| Personality Type  | Likes     | Dislikes       |
+|-------------------|-----------|----------------|
+| Gloomy            | Vague     | Serious, Funny |
+| Irritable         | Serious   | Vague, Kind    |
+| Timid             | Kind      | Vague, Funny   |
+| Upbeat            | Funny     | Serious, Vague |
+
+### Persona List
 | Description               | Shadow           | Personality |
 |---------------------------|------------------|-------------|
 | Crypt-dwelling Pyromaniac | Jack-o-Lantern   | Gloomy      |
@@ -139,11 +149,11 @@
 </table>
 <table>
 	<tr>
-		<th colspan="2">Hey, sonny if somethin's been botherin' you. I'm willing to give you a listen.</th>
+		<th colspan="2">Hey, sonny if somethin's been botherin' you. I'm willin' to give you a listen.</th>
 	</tr>
 	<tr>
 		<td>My relationships...</td>
-		<td>good - irritable</td>
+		<td>good - irritable, bad - timid</td>
 	</tr>
 	<tr>
 		<td>My future...</td>
@@ -211,7 +221,7 @@
 	</tr>
 	<tr>
 		<td>I feel great.</td>
-		<td></td>
+		<td>good - upbeat, ok - , bad - </td>
 	</tr>
 	<tr>
 		<td>I want to aim higher.</td>
@@ -508,7 +518,7 @@
 	</tr>
 	<tr>
 		<td>Girl power.</td>
-		<td>ok - timid</td>
+		<td>good - upbeat, ok - timid</td>
 	</tr>
 </table>
 <table>
@@ -627,7 +637,7 @@
 	</tr>
 	<tr>
 		<td>I'm not hospitable.</td>
-		<td>ok - irritable</td>
+		<td>ok - irritable, bad - timid</td>
 	</tr>
 </table>
 <table>
@@ -840,7 +850,7 @@
 	</tr>
 	<tr>
 		<td>It does.</td>
-		<td>ok - upbeat</td>
+		<td>ok - upbeat, timid</td>
 	</tr>
 	<tr>
 		<td>Don't expect it.</td>
@@ -1103,7 +1113,7 @@
 	</tr>
 	<tr>
 		<td>Let me touch your paws.</td>
-		<td>good - gloomy</td>
+		<td>good - gloomy, upbeat</td>
 	</tr>
 </table>
 <table>
@@ -1235,7 +1245,7 @@
 	</tr>
 	<tr>
 		<td>That's never happening.</td>
-		<td>bad - irritable </td>
+		<td>bad - irritable, ok - upbeat</td>
 	</tr>
 	<tr>
 		<td>Are you giving up?</td>
@@ -2874,3 +2884,89 @@
 		<td>Being alone is a luxury.</td>
 		<td></td>
 	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">Are all the kids these days doin' stuff like this?</th>
+	</tr>
+	<tr>
+		<td>Yeah, we sure are.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>No, I thought this up myself.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Want to join in?</td>
+		<td>ok - timid</td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">Don't take this the wrong way but man... Bein' a carefree kid sure must be nice.</th>
+	</tr>
+	<tr>
+		<td>I want to be a kid forever. (kind)</td>
+		<td>good - timid</td>
+	</tr>
+	<tr>
+		<td>I prefer being an adult. (serious?)</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>I wish I was still a baby. (vague? joke?)</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+    <tr>
+        <th colspan="2">You know... If you're willing to let this go... I'll make it worth your while.</th>
+    </tr>
+    <tr>
+        <td>Worth my while...?</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>No way.</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>I'm already taken.</td>
+        <td>good - upbeat</td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th colspan="2">What's wrong with the way I look, huh?</th>
+    </tr>
+    <tr>
+        <td>You tempt people/</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>You're ugly.</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Nothing's wrong.</td>
+        <td>ok - timid</td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th colspan="2">What was that, anyway?</th>
+    </tr>
+    <tr>
+        <td>A love letter.</td>
+        <td>ok - gloomy</td>
+    </tr>
+    <tr>
+        <td>A threat letter.</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>A coupon.</td>
+        <td>good - gloomy</td>
+    </tr>
+</table>
