@@ -8,6 +8,7 @@
 | Upbeat            | Funny     | Serious, Vague |
 
 ### Persona List
+
 | Description               | Shadow           | Personality |
 |---------------------------|------------------|-------------|
 | Crypt-dwelling Pyromaniac | Jack-o-Lantern   | Gloomy      |
