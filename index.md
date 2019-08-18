@@ -23,7 +23,7 @@
 | Twilight Prostitute       | Succubus         | Irritable   |
 | Menacing Owlman           | Andras           | Timid       |
 | War-hungry Horseman       | Eligor           | Irritable   |
-| Heavenly Punisher         | Archangel        |             |
+| Heavenly Punisher         | Archangel        | Irritable   |
 | Viscid Rotting Meat       | Slime            |             |
 |                           |                  |             |
 | Night-Walking Warrior     | Mokoi            | Gloomy      |
@@ -44,7 +44,7 @@
 | Zealous Messenger         | Angel            |             |
 | Twin-headed Guardian      | Orthrus          | Irritable   |
 | Equine Sage               | Orobas           | Timid       |
-| Chivalrous Fiend          | Oni              |             |
+| Chivalrous Fiend          | Oni              | Upbeat      |
 | Human-eating Lady         | Yaksini          | Irritable   |
 | Jealous Lover             | Leanan Sidhe     | Irritable   |
 | Battle Fiend              | Rakshasa         | Irritable   |
@@ -286,11 +286,11 @@
 </table>
 <table>
 	<tr>
-		<th colspan="2">You go back to your mother' arms. You need take nap now.</th>
+		<th colspan="2">You go back to your mother's arms. You need take nap now.</th>
 	</tr>
 	<tr>
 		<td>I'm not that young.</td>
-		<td></td>
+		<td>good - irritable</td>
 	</tr>
 	<tr>
 		<td>I'm not sleepy yet.</td>
@@ -817,7 +817,7 @@
 	</tr>
 	<tr>
 		<td>I didn't know that.</td>
-		<td></td>
+		<td>good - irritable?</td>
 	</tr>
 	<tr>
 		<td>You need a good spanking.</td>
@@ -825,7 +825,7 @@
 	</tr>
 	<tr>
 		<td>Some things are timeless.</td>
-		<td>bad - upbeat</td>
+		<td>bad - upbeat, irritable</td>
 	</tr>
 </table>
 <table>
@@ -868,11 +868,11 @@
 	</tr>
 	<tr>
 		<td>Sin...?</td>
-		<td></td>
+		<td>bad - irritable</td>
 	</tr>
 	<tr>
 		<td>Cut to the chase.</td>
-		<td></td>
+		<td>bad - irritable</td>
 	</tr>
 	<tr>
 		<td>I've done nothing wrong.</td>
@@ -936,7 +936,7 @@
 	</tr>
 	<tr>
 		<td>Give me something.</td>
-		<td>ok - upbeat</td>
+		<td>good - irritable; ok - upbeat</td>
 	</tr>
 	<tr>
 		<td>Grovel before me.</td>
@@ -987,7 +987,7 @@
 	</tr>
 	<tr>
 		<td>Don't toy with me.</td>
-		<td></td>
+		<td>bad - irritable</td>
 	</tr>
 	<tr>
 		<td>I don't understand.</td>
@@ -1301,7 +1301,7 @@
 	</tr>
 	<tr>
 		<td>I don't remember.</td>
-		<td></td>
+		<td>ok - irritable</td>
 	</tr>
 </table>
 <table>
@@ -1395,7 +1395,7 @@
 	</tr>
 	<tr>
 		<td>Right after this, kid.</td>
-		<td>good - timid</td>
+		<td>good - timid; ok - upbeat</td>
 	</tr>
 	<tr>
 		<td>Such a rude little boy...</td>
@@ -1637,7 +1637,7 @@
 	</tr>
 	<tr>
 		<td>What? No, you're wrong...</td>
-		<td></td>
+		<td>ok - irritable</td>
 	</tr>
 	<tr>
 		<td>Um, are things OK at home?</td>
@@ -1654,7 +1654,7 @@
 	</tr>
 	<tr>
 		<td>Let's play a video game.</td>
-		<td></td>
+		<td>ok - upbeat</td>
 	</tr>
 	<tr>
 		<td>Let's hit on some ladies.</td>
@@ -1667,15 +1667,15 @@
 	</tr>
 	<tr>
 		<td>I'm smart.</td>
-		<td>bad - gloomy</td>
+		<td>bad - gloomy; good - irritable</td>
 	</tr>
 	<tr>
 		<td>My grades are all right.</td>
-		<td></td>
+		<td>good - upbeat; bad - irritable</td>
 	</tr>
 	<tr>
 		<td>Shut up.</td>
-		<td></td>
+		<td>ok - irritable</td>
 	</tr>
 </table>
 <table>
@@ -1705,7 +1705,7 @@
 	</tr>
 	<tr>
 		<td>No, I don't think so.</td>
-		<td></td>
+		<td>good - upbeat</td>
 	</tr>
 	<tr>
 		<td>I'm not mature anyway.</td>
@@ -1841,7 +1841,7 @@
 	</tr>
 	<tr>
 		<td>A coupon for a massage by me.</td>
-		<td></td>
+		<td>good - upbeat</td>
 	</tr>
 	<tr>
 		<td>I'll quietly be at your side.</td>
@@ -1922,7 +1922,7 @@
 	</tr>
 	<tr>
 		<td>It's not like that.</td>
-		<td></td>
+		<td>bad - upbeat</td>
 	</tr>
 	<tr>
 		<td>Nothing but bad things...</td>
@@ -2045,7 +2045,7 @@
 	</tr>
 	<tr>
 		<td>You're fine as you are.</td>
-		<td></td>
+		<td>ok - irritable</td>
 	</tr>
 	<tr>
 		<td>That's pointless.</td>
@@ -2151,7 +2151,7 @@
 	</tr>
 	<tr>
 		<td>That's what I want to know.</td>
-		<td>good - gloomy, irritable</td>
+		<td>good - gloomy, irritable; ok - timid</td>
 	</tr>
 </table>
 <table>
@@ -2501,7 +2501,7 @@
 	</tr>
 	<tr>
 		<td>You look terrifying.</td>
-		<td>good - gloomy</td>
+		<td>good - gloomy, irritable</td>
 	</tr>
 	<tr>
 		<td>I can't play with you.</td>
@@ -2539,7 +2539,7 @@
 	</tr>
 	<tr>
 		<td>That's not very fun.</td>
-		<td></td>
+		<td>good - upbeat</td>
 	</tr>
 	<tr>
 		<td>You dirty old man.</td>
@@ -2577,7 +2577,7 @@
 	</tr>
 	<tr>
 		<td>Stop trying to act cool.</td>
-		<td></td>
+		<td>good - upbeat</td>
 	</tr>
 </table>
 <table>
@@ -2705,7 +2705,7 @@
 	</tr>
 	<tr>
 		<td>I'm telling you to die.</td>
-		<td></td>
+		<td>good - irritable</td>
 	</tr>
 	<tr>
 		<td>Why do we fight?</td>
@@ -2892,7 +2892,7 @@
 	</tr>
 	<tr>
 		<td>Yeah, we sure are.</td>
-		<td></td>
+		<td>bad - irritable</td>
 	</tr>
 	<tr>
 		<td>No, I thought this up myself.</td>
@@ -2971,3 +2971,166 @@
         <td>good - gloomy</td>
     </tr>
 </table>
+<table>
+	<tr>
+		<th colspan="2">It looks boring to me, so how come grown-ups like kissy facing? Why to they like "making out"?</th>
+	</tr>
+	<tr>
+		<td>How should I know?</td>
+		<td>bad - irritable</td>
+	</tr>
+	<tr>
+		<td>I can't tell you.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Ask your parents.</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">Is it 'cause I wasn't a "good boy"?</th>
+	</tr>
+	<tr>
+		<td>Yes.</td>
+		<td>bad - irritable</td>
+	</tr>
+	<tr>
+		<td>No.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>That's not why.</td>
+		<td>bad - irritable</td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">Where do babies come from?</th>
+	</tr>
+	<tr>
+		<td>Storks deliver them.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Ask your parents.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>The love between two people.</td>
+		<td>good - irritable</td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">Hey, mister, will you gimme a yummy snake to eat?</th>
+	</tr>
+	<tr>
+		<td>Later.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>No.</td>
+		<td>ok - irritable</td>
+	</tr>
+	<tr>
+		<td>Don't eat between meals.</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">Humans talk over drinks, right? How 'bout it? Hell, let me buy you a round, sonny.</th>
+	</tr>
+	<tr>
+		<td>Quit messing around.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>You'll really treat me?</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>I'm a minor...</td>
+		<td>ok - irritable</td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">You have thrown this place into upheaval. What would you think if I did the same to your world?</th>
+	</tr>
+	<tr>
+		<td>I wouldn't allow it.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>I hadn't thought of that...</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>An eye for an eye.</td>
+		<td>good - irritable</td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">That is to say, we are brothers. There is no reason for us to fight.</th>
+	</tr>
+	<tr>
+		<td>Leave my parents out of this.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>We have the same "Father"?</td>
+		<td>ok - irritable</td>
+	</tr>
+	<tr>
+		<td>But you're a Shadow.</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">It seems the Sons of Man have denounced the word of our Father. Tell me, what worth have you found?</th>
+	</tr>
+	<tr>
+		<td>I have love.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>I can surive alone. [sic]</td>
+		<td>good - irritable</td>
+	</tr>
+	<tr>
+		<td>Find it for me.</td>
+		<td></td>
+	</tr>
+</table>
+
+<div class="question">
+	<p>It seems the Sons of Man have denounced the word of our Father. Tell me, what worth have you found?</p>
+	<table class="answers">
+		<tr>
+			<td class="answer"   >I have love.</td>
+			<td class="gloomy"   ></td>
+			<td class="irritable"></td>
+			<td class="timid"    ></td>
+			<td class="upbeat"   ></td>
+		</tr>
+		<tr>
+			<td class="answer"   >I can surive alone. [sic]</td>
+			<td class="gloomy"   ></td>
+			<td class="irritable">Good</td>
+			<td class="timid"    ></td>
+			<td class="upbeat"   ></td>
+		</tr>
+		<tr>
+			<td class="answer"   >Find it for me.</td>
+			<td class="gloomy"   ></td>
+			<td class="irritable"></td>
+			<td class="timid"    ></td>
+			<td class="upbeat"   ></td>
+		</tr>
+	</table>
+</div>
